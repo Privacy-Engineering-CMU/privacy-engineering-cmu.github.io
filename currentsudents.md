@@ -37,7 +37,7 @@ title: Current Students & Alumni
     <a href="https://amanpriyanshu.github.io/" target="_blank">Aman Priyanshu</a>
   </div>
   <div class="profile">
-    <img src="/assets/img/student/yash" alt="Yash Maurya">
+    <img src="/assets/img/student/yash.jpeg" alt="Yash Maurya">
     <a href="https://yashmaurya.com/" target="_blank">Yash Maurya</a>
   </div>
   <div class="profile">
@@ -45,21 +45,22 @@ title: Current Students & Alumni
     <a href="https://www.linkedin.com/in/suriya-ganesh/" target="_blank">Suriya Ganesh</a>
   </div>
   <div class="profile">
-    <img src="/assets/img/student/limin" alt="Limin Ge">
+    <img src="/assets/img/student/limin.jpg" alt="Limin Ge">
     <a href="https://www.linkedin.com/in/limin-ge-573b4b28a/" target="_blank">Limin Ge</a>
   </div>
   <div class="profile">
-    <img src="/assets/img/student/zuofei" alt="Zuofei Hong">
-    <a href="https://www.linkedin.com/in/zuofei-hong-832ab719b/" target="_blank">Zuofei Hong</a>
-  </div>
-  <div class="profile">
-    <img src="/assets/img/student/zuofei" alt="Zuofei Hong">
+    <img src="/assets/img/student/zuofei.jpg" alt="Zuofei Hong">
     <a href="https://www.linkedin.com/in/zuofei-hong-832ab719b/" target="_blank">Zuofei Hong</a>
   </div>
   <div class="profile">
     <img src="/assets/img/student/Jingxin.jpg" alt="Jingxin Shi">
     <a href="https://www.linkedin.com/in/jingxinshi/" target="_blank">Jingxin Shi</a>
   </div>
+  <div class="profile">
+    <img src="/assets/img/student/ibrahim.jpg" alt="Ibrahim Chhaya">
+    <a href="https://www.linkedin.com/in/ibrahimchhaya/" target="_blank">Ibrahim Chhaya</a>
+  </div>
+  
   <!-- Add more student profiles here -->
 </div>
 
