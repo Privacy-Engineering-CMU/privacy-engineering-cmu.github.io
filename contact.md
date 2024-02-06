@@ -16,8 +16,8 @@ For insights into student experiences, projects, or specific advice from current
 
 Interested in applying or have questions about the application process? Our admissions team is ready to assist:
 
-- Visit: [Privacy Engineering Masters Program](https://privacy.cs.cmu.edu/masters/index.html) for detailed information and FAQs.
-- Or Check Out the: [Privacy Engineering Certificate Program](https://privacy.cs.cmu.edu/privacy-cert/index.html) for detailed information on the certificate program.
+- **Visit:** [Privacy Engineering Masters Program](https://privacy.cs.cmu.edu/masters/index.html) for detailed information and FAQs.
+- **Or Check Out the:** [Privacy Engineering Certificate Program](https://privacy.cs.cmu.edu/privacy-cert/index.html) for detailed information on the certificate program.
 
 ### c) Faculty
 
