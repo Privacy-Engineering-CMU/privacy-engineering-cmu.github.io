@@ -22,9 +22,7 @@ author: CMU Privacy Engineering Masters Students & Alumni
 navbar-links:
   Contact Us: "contact"
   About the Program: "https://privacy.cs.cmu.edu/masters/index.html"
-  More On Us:
-    - CMU Privacy Engineering: "https://privacy.cs.cmu.edu"
-    - Current Student: "currentsudents"
+  Current Student: "currentsudents"
 
 ################
 # --- Logo --- #
