@@ -24,6 +24,6 @@ Follow these instructions for [android](https://support.google.com/android/answe
 
 ### other tools to know your privacy
 
-- [AmIUnique](https://amiunique.org/fingerprint)
+- [EFF Cover Your Tracks](https://coveryourtracks.eff.org/)
 
 By taking these steps, you can better protect your privacy and control the digital footprints you leave behind.
