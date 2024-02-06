@@ -6,7 +6,7 @@ subtitle: Want to get in touch with MSIT Privacy Engineering?
 
 We welcome your interest to get in touch with the MSIT Privacy Engineering Program at CMU. Whether you're curious about student life, admissions, or have specific questions for our faculty, we're here to help. Below you'll find the best ways to connect with us, depending on your needs.
 
-### a) Contacting Us Students
+### a) Contacting Us, Students
 
 For insights into student experiences, projects, or specific advice from current students, please reach out to any of us from the [Students & Alumni Page](https://privacy-engineering-cmu.github.io/currentsudents/)
 
