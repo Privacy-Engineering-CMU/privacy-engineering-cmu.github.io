@@ -678,7 +678,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
-.intro-header .page-heading h1 {
+.intro-header .page-heading h2 {
   margin-top: 0;
   font-size: 3.125rem;
 }
@@ -732,12 +732,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   .intro-header.big-img .post-heading {
     padding: 9.375rem 0;
   }
-  .intro-header .page-heading h1 {
+  .intro-header .page-heading h2 {
     font-size: 5rem;
   }
-  .intro-header .post-heading h1 {
-    font-size: 3.125rem;
-  }
+
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
   }

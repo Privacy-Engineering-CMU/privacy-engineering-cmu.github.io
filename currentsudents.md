@@ -17,7 +17,7 @@ title: Current Students & Alumni
   .profile img {
     width: 100px;
     height: 100px;
-    border-radius: 50%;
+    border-radius: 25%;
     border: 2px solid #007bff;
     object-fit: cover;
   }
@@ -29,7 +29,7 @@ title: Current Students & Alumni
   }
 </style>
 
-<h2>Current Students:</h2>
+<h3>Current Students:</h3>
 <div class="profile-container">
   <!-- Example student profile -->
   <div class="profile">
@@ -64,7 +64,7 @@ title: Current Students & Alumni
   <!-- Add more student profiles here -->
 </div>
 
-<h2>Alumni:</h2>
+<h3>Alumni:</h3>
 <div class="profile-container">
   <!-- Example alumni profile -->
   <div class="profile">
