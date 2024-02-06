@@ -8,9 +8,7 @@ We welcome your interest to get in touch with the MSIT Privacy Engineering Progr
 
 ### a) Contacting Us Students
 
-For insights into student experiences, projects, or specific advice from current students:
-
-- **Email one of our students:** apriyans@andrew.cmu.edu
+For insights into student experiences, projects, or specific advice from current students, please reach out to any of us from the [Students & Alumni Page](https://privacy-engineering-cmu.github.io/currentsudents/)
 
 ### b) Admissions
 
