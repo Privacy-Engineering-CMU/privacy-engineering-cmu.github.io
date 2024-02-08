@@ -27,3 +27,6 @@ Follow these instructions for [android](https://support.google.com/android/answe
 - [EFF Cover Your Tracks](https://coveryourtracks.eff.org/)
 
 By taking these steps, you can better protect your privacy and control the digital footprints you leave behind.
+
+## Author:
+My name is Suriya Ganesh; you can reach out to me through my [LinkedIn](https://www.linkedin.com/in/suriya-ganesh/)
