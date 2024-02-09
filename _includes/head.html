@@ -106,9 +106,9 @@
       {{ page.share-img }}
     {%- elsif page.cover-img -%}
       {%- if page.cover-img.first -%}
-        {{ page.cover-img[0].first.first }}
+        <img src="{{ page.cover-img[0].first.first }}" style="filter: blur(8px) brightness(50%);">
       {%- else -%}
-        {{ page.cover-img }}
+        <img src="{{ page.cover-img }}" style="filter: blur(8px) brightness(50%);">
       {%- endif -%}
     {%- elsif page.thumbnail-img -%}
       {{ page.thumbnail-img }}
