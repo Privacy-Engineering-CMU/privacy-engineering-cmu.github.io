@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Privacy Engineering: What It Is? and Why It Matters?
+title: "Introduction to Privacy Engineering: What It Is? and Why It Matters?"
 subtitle: Building Trust in the Digital Age
 tags: [privacy, engineering, privacy-engineering]
 cover-img: /assets/img/privacy-engineering.png
@@ -40,3 +40,7 @@ Furthermore, collaboration across industries can drive innovation in privacy eng
 
 ## Conclusion
 The journey towards making privacy engineering a mainstream role is both necessary and challenging. It requires a concerted effort from individuals, organizations, and society at large to recognize the importance of privacy in the digital age. By embedding privacy into the fabric of technology development, we can create a future where digital trust is not just an aspiration but a reality. For those looking to make an impact, pursuing a career in privacy engineering or advocating for its principles in your organization can be a powerful step forward. Together, we can build a digital world that respects privacy as a fundamental right.
+
+## Author:
+
+My name is Aman Priyanshu, you can check out my [website](https://amanpriyanshu.github.io/) for more details or check out my other socials: [LinkedIn](https://www.linkedin.com/in/aman-priyanshu/) and [Twitter](https://twitter.com/AmanPriyanshu6)
