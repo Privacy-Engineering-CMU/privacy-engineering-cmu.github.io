@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Privacy Engineering: What It Is? and Why It Matters?"
 subtitle: Building Trust in the Digital Age
 tags: [privacy, engineering, privacy-engineering]
-cover-img: /assets/img/privacy-engineering.png
+cover-img: /assets/img/privacy-engineering-bd.png
 thumbnail-img: /assets/img/privacy-engineering.png
 share-img: /assets/img/privacy-engineering.png
 author: Aman Priyanshu
