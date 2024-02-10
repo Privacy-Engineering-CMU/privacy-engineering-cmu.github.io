@@ -42,7 +42,7 @@ title: Current Students & Alumni
   </div>
   <div class="profile">
     <img src="/assets/img/student/suriya.jpg" alt="Suriya Ganesh">
-    <a href="https://www.linkedin.com/in/suriya-ganesh/" target="_blank">Suriya Ganesh</a>
+    <a href="https://www.suriya.cc/" target="_blank">Suriya Ganesh</a>
   </div>
   <div class="profile">
     <img src="/assets/img/student/limin.jpg" alt="Limin Ge">
