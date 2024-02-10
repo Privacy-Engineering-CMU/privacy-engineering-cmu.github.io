@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why privacy matters, and the \"I have nothing to hide\" Myth"
-subtitle: Building Trust in the Digital Age
+subtitle: Privacy enables you to be yourself 
 tags: [privacy, engineering, privacy-engineering]
 cover-img: /assets/img/why_privacy.jpeg
 thumbnail-img: /assets/img/why_privacy.jpeg
