@@ -40,4 +40,8 @@ Ultimately, the goal is to foster a culture where privacy is valued and protecte
 ## Conclusion
 The journey of privacy engineering from a niche field to an indispensable discipline underscores the shifting dynamics of our digital society. As we continue to grapple with the challenges and opportunities presented by technological advancement, the role of privacy engineers becomes ever more critical. By embedding privacy into the fabric of our digital infrastructure, we can build a future where technology serves humanity without compromising our fundamental right to privacy.
 
-Individuals can advocate for stronger privacy protections by staying informed and exercising their rights, while organizations can lead the charge by adopting privacy-first practices. Together, we can shape a digital landscape that values and protects personal privacy.
+I believe individuals can advocate for stronger privacy protections by staying informed and exercising their rights, while organizations can lead the charge by adopting privacy-first practices. Together, we can shape a digital landscape that values and protects personal privacy.
+
+## Author:
+
+My name is Aman Priyanshu, you can check out my [website](https://amanpriyanshu.github.io/) for more details or check out my other socials: [LinkedIn](https://www.linkedin.com/in/aman-priyanshu/) and [Twitter](https://twitter.com/AmanPriyanshu6)
