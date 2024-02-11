@@ -3,7 +3,7 @@ layout: post
 title: "Why privacy matters, and the \"I have nothing to hide\" Myth"
 subtitle: Privacy enables you to be yourself 
 tags: [privacy, engineering, privacy-engineering]
-cover-img: /assets/img/why_privacy-bd.jpeg
+cover-img: /assets/img/why_privacy-bd.png
 thumbnail-img: /assets/img/why_privacy.jpeg
 share-img: /assets/img/why_privacy.jpeg
 author: Surya Ganesh
