@@ -34,3 +34,6 @@ Privacy is not a tool for criminals; __it's a safety net for the innocent__. It 
 ### References
 
 - https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-to-think-about-surveillance/
+
+## Author:
+My name is Suriya Ganesh; you can reach out to me through my [LinkedIn](https://www.linkedin.com/in/suriya-ganesh/)
