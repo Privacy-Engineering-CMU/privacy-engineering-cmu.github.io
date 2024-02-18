@@ -3,7 +3,7 @@ layout: post
 title: App Tracking and Privacy
 subtitle: Describing App Tracking to Users
 tags: [privacy, app-tracking, digital-security]
-author: Suriya
+author: Surya Ganesh
 ---
 
 In-app trackers are sneaky little digital spies living inside your favorite apps. These trackers follow your every tap, swipe, and purchase, building a detailed dossier of your online life. Ever wonder why the shopping app that only sells artisanal mustache wax is suddenly suggesting mermaid costumes? It's because you once Googled "how to swim gracefully after a wax disaster."
