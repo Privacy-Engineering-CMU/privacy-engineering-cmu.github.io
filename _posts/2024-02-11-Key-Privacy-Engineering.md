@@ -56,3 +56,7 @@ Innovation in privacy technology offers a beacon of hope. From blockchain for se
 The journey towards a privacy-respecting digital world is ongoing, and it requires the collective effort of individuals, companies, and governments. By embracing privacy engineering principles, we can build digital products and services that respect user privacy, foster trust, and promote a safer, more secure digital environment.
 
 Everyone has a role to play in this endeavor. For companies, it's about making privacy a cornerstone of their operations. For policymakers, it's about enacting laws that reflect the digital age's complexities. And for individuals, it's about staying informed and demanding privacy-respecting services. Together, we can chart a course towards a future where privacy is not just a policy but a promise.
+
+## Author:
+
+My name is Aman Priyanshu, you can check out my [website](https://amanpriyanshu.github.io/) for more details or check out my other socials: [LinkedIn](https://www.linkedin.com/in/aman-priyanshu/) and [Twitter](https://twitter.com/AmanPriyanshu6)
