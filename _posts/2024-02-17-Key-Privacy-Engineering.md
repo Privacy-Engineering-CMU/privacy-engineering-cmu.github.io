@@ -2,7 +2,7 @@
 layout: post
 title: "Key Privacy Engineering Principles Every Company Should Know"
 subtitle: "Building a Trustworthy Foundation: Privacy Engineering Essentials"
-tags: [privacy, engineering, privacy-engineering, trustworthy, daily-question]
+tags: [privacy, engineering, privacy-engineering, trustworthy]
 cover-img: /assets/img/key-points-privacy-bd.png
 thumbnail-img: /assets/img/key-points-privacy.png
 share-img: /assets/img/key-points-privacy.png
