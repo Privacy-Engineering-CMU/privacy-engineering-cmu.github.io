@@ -43,4 +43,4 @@ The journey towards making privacy engineering a mainstream role is both necessa
 
 ## Author:
 
-My name is Aman Priyanshu, you can check out my [website](https://amanpriyanshu.github.io/) for more details or check out my other socials: [LinkedIn](https://www.linkedin.com/in/aman-priyanshu/) and [Twitter](https://twitter.com/AmanPriyanshu6)
+<small>My name is Aman Priyanshu, you can check out my [website](https://amanpriyanshu.github.io/) for more details or check out my other socials: [LinkedIn](https://www.linkedin.com/in/aman-priyanshu/) and [Twitter](https://twitter.com/AmanPriyanshu6)</small>
