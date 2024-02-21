@@ -23,7 +23,7 @@ KidsTube isn't just any video app; it's a special corner of the internet made fo
 
 To tackle KidsTube's privacy puzzles, we called in two superhero squads: LINDDUN and OWASP. They're like Batman and Superman for digital privacy, each with their own set of superpowers.
 
-- **OWASP**: These folks help us spot the big, scary risks, like hackers trying to sneak in or accidental leaks of private info. They remind us to always be on our guard, do regular check-ups, and make sure parents have the controls they need to keep their kids' info safe.
+- **OWASP Top Ten**: These folks help us spot the big, scary risks, like hackers trying to sneak in or accidental leaks of private info. They remind us to always be on our guard, do regular check-ups, and make sure parents have the controls they need to keep their kids' info safe.
 
 - **LINDDUN**: This team helps us draw a map of how information moves around in KidsTube, from videos and user info to those all-important parental approvals. With this map, we can see where the privacy pitfalls are and how to dodge them.
 
