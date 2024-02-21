@@ -3,7 +3,7 @@ layout: post
 title: "Keeping Kids Safe on KidsTube: A Peek into Privacy Protection"
 subtitle: "Ensuring a Safe Online Adventure for Our Kids: Case Study of KidsTube"
 tags: [privacy, engineering, privacy-engineering, child-safety, digital-wellbeing]
-cover-img: /assets/img/Keeping_Kids_Safe.jpg
+cover-img: /assets/img/Keeping_Kids_Safe-bd.png
 thumbnail-img: /assets/img/Keeping_Kids_Safe.jpg
 share-img: /assets/img/Keeping_Kids_Safe.jpg
 author: Limin Ge
