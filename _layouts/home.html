@@ -9,9 +9,7 @@ layout: page
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
-    {% if post.tags contains "daily-question" %}
-      {% continue %}
-    {% endif %}
+    {% unless post.tags contains "daily-question" %}
   <li class="post-preview">
     <article>
 
