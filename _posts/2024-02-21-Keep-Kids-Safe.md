@@ -43,3 +43,7 @@ With LINDDUN and OWASP's help, we spotted a few privacy villains trying to crash
 ## Wrapping It Up
 
 KidsTube's journey through privacy threat modeling shows us how a little detective work can make a big difference in keeping our digital playgrounds safe. It's not just about avoiding the "bad stuff"; it's about building a space where kids can explore, learn, and have fun without worry. As we keep dreaming up new digital worlds, let's remember to keep our magnifying glasses ready and our superhero capes on, making sure every child's online adventure is a safe one.
+
+## Author:
+
+My name is Limin Ge, you can check out my [LinkedIn](https://www.linkedin.com/in/limin-ge-573b4b28a/)
