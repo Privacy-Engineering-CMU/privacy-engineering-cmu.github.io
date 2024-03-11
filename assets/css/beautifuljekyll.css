@@ -1093,12 +1093,52 @@ pre {
 }
 
 .footer-grid {
-  overflow: hidden; /* Clearfix */
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .footer-grid > div {
-  float: left;
-  width: 25%; /* Adjust the width as needed */
-  padding: 10px;
-  box-sizing: border-box;
+  flex: 1;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.footer-grid-heading {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.footer-ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-ul li {
+  margin-bottom: 5px;
+}
+
+.footer-ul li a {
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-ul li a:hover {
+  color: #333;
+}
+
+.footer-grid-heading-link {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-grid-heading-link:hover {
+  color: #666;
 }
