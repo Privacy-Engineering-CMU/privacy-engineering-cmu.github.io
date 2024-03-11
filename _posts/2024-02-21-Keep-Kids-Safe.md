@@ -7,6 +7,7 @@ cover-img: /assets/img/Keeping_Kids_Safe-bd.png
 thumbnail-img: /assets/img/Keeping_Kids_Safe.jpg
 share-img: /assets/img/Keeping_Kids_Safe.jpg
 author: Limin Ge
+author_url: https://www.linkedin.com/in/limin-ge-573b4b28a/
 ---
 
 In today's digital playground, our kids' safety and privacy online are as crucial as in the real world. That's where KidsTube comes in—a brand-new video streaming service made just for kids, with a special twist: parents get to approve what their little ones watch. But in today's world full of digital risks, how do we make sure this safe haven stays secure? Let's dive into the world of privacy threat modeling, a superhero toolkit that helps us keep the baddies at bay, featuring our very own KidsTube as the star of the show.

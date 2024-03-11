@@ -172,4 +172,25 @@
     {% endfor %}
   {% endif %}
 
+  <script type="application/ld+json">
+    {
+      "@context": "https://privacy-engineering-cmu.github.io",
+      "@type": "NewsArticle",
+      "headline": "{{page.title}}",
+      "image": [
+        "{{page.cover-img}}",
+        "{{page.thumbnail-img}}",
+        "{{page.share-img}}"
+      ],
+      "datePublished": "{{page.date}}",
+      "dateModified": "{{page.last-updated}}",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "{{page.author}}",
+          "url": "{{page.author_url}}"
+        }
+      ]
+    }
+  </script>
 </head>
