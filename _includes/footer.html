@@ -8,6 +8,7 @@
           {% for file in page.footer-extra %}
             {% include {{ file }} %}
           {% endfor %}
+          {% include internal_link.html %}
         </div>
       {% endif %}
       {% include internal_link.html %}
