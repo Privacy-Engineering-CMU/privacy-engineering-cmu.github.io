@@ -1091,3 +1091,14 @@ pre {
     display: inline-block;
   }
 }
+
+.footer-grid {
+  overflow: hidden; /* Clearfix */
+}
+
+.footer-grid > div {
+  float: left;
+  width: 25%; /* Adjust the width as needed */
+  padding: 10px;
+  box-sizing: border-box;
+}
