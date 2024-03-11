@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Privacy Engineering CMU
+title: Privacy Engineering Program - Carnegie Mellon University
 
 # Your name to show in the footer
 author: CMU Privacy Engineering Masters Students & Alumni
@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a blog website for CMU MSIT-Privacy Engineering Students & Alumni
+rss-description: This website is a blog website for Carnegie Mellon University MSIT-Privacy Engineering Students & Alumni
 
 ###########################
 # --- General options --- #
@@ -125,7 +125,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Privacy Engineering, Carnegie Mellon University, Privacy and Security"
 
 ######################################
 # --- Colours / background image --- #
