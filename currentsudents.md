@@ -33,31 +33,31 @@ title: Current Students & Alumni
 <div class="profile-container">
   <!-- Example student profile -->
   <div class="profile">
-    <a href="https://amanpriyanshu.github.io/"><img src="/assets/img/student/AmanPriyanshuCropped.jpg" alt="Aman Priyanshu"></a>
+    <a href="https://amanpriyanshu.github.io/"><img src="/assets/img/student/AmanPriyanshuCropped.jpg" alt="Aman Priyanshu | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://amanpriyanshu.github.io/" target="_blank">Aman Priyanshu</a>
   </div>
   <div class="profile">
-    <a href="https://yashmaurya.com/"><img src="/assets/img/student/yash.jpeg" alt="Yash Maurya"></a>
+    <a href="https://yashmaurya.com/"><img src="/assets/img/student/yash.jpeg" alt="Yash Maurya | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://yashmaurya.com/" target="_blank">Yash Maurya</a>
   </div>
   <div class="profile">
-    <a href="https://www.suriya.cc/"><img src="/assets/img/student/suriya.jpg" alt="Suriya Ganesh"></a>
+    <a href="https://www.suriya.cc/"><img src="/assets/img/student/suriya.jpg" alt="Suriya Ganesh | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://www.suriya.cc/" target="_blank">Suriya Ganesh</a>
   </div>
   <div class="profile">
-    <a href="https://www.linkedin.com/in/limin-ge-573b4b28a/"><img src="/assets/img/student/limin.jpg" alt="Limin Ge"></a>
+    <a href="https://www.linkedin.com/in/limin-ge-573b4b28a/"><img src="/assets/img/student/limin.jpg" alt="Limin Ge | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://www.linkedin.com/in/limin-ge-573b4b28a/" target="_blank">Limin Ge</a>
   </div>
   <div class="profile">
-    <a href="https://www.linkedin.com/in/zuofei-hong-832ab719b/"><img src="/assets/img/student/zuofei.jpg" alt="Zuofei Hong"></a>
+    <a href="https://www.linkedin.com/in/zuofei-hong-832ab719b/"><img src="/assets/img/student/zuofei.jpg" alt="Zuofei Hong | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://www.linkedin.com/in/zuofei-hong-832ab719b/" target="_blank">Zuofei Hong</a>
   </div>
   <div class="profile">
-    <a href="https://www.linkedin.com/in/jingxinshi/"><img src="/assets/img/student/Jingxin.jpg" alt="Jingxin Shi"></a>
+    <a href="https://www.linkedin.com/in/jingxinshi/"><img src="/assets/img/student/Jingxin.jpg" alt="Jingxin Shi | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://www.linkedin.com/in/jingxinshi/" target="_blank">Jingxin Shi</a>
   </div>
   <div class="profile">
-    <a href="https://www.linkedin.com/in/ibrahimchhaya/"><img src="/assets/img/student/ibrahim.jpg" alt="Ibrahim Chhaya"></a>
+    <a href="https://www.linkedin.com/in/ibrahimchhaya/"><img src="/assets/img/student/ibrahim.jpg" alt="Ibrahim Chhaya | 2024 Class of CMU Privacy Engineering Project"></a>
     <a href="https://www.linkedin.com/in/ibrahimchhaya/" target="_blank">Ibrahim Chhaya</a>
   </div>
   
